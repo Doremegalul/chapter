@@ -3,6 +3,8 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/freeCodeCamp/chapter?color=orange&style=flat-square)](#contributors-)
 [![Setup Automated](https://img.shields.io/badge/setup-automated-blue?logo=gitpod)](https://gitpod.io/#https://github.com/freeCodeCamp/chapter)
 
+Special notes: This was forked from the user ttran913. Since I do not have knowledge on adding different user respiratory, I will fork it to be able to add it to my respiratory. The two groupmates that I collabarated with was ttran913 and 1217brent.
+
 After several years of being dissatisfied with existing group event tools (Meetup, Facebook events) we decided to build our own.
 
 This will be a self-hosted Docker container deployed to the cloud with a one-click and then configured by the _owner_. No coding required.
